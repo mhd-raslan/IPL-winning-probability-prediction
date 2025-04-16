@@ -25,8 +25,8 @@ An interactive machine learning-powered web application that predicts the winnin
 
 ##  Models Used
 
-- **Random Forest Classifier** (for deployment)
-- Also experimented with **XGBoost** for performance comparison
+- **Logistic Regression** (for deployment)
+- Also experimented with **Random Forest Classifier** for performance comparison
 - Evaluation metrics:
   - Accuracy
   - Precision
